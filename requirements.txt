@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-groq
+langchain-community
+qdrant-client
+pypdf
+requests
+streamlit
+python-dotenv
+pytest
